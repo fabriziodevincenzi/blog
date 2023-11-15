@@ -45,7 +45,7 @@ const url = new URL(Astro.request.url);
 			aria-current={url.pathname === "/" ? "page" : false}
 		>
 					<svg
-				class="text-xl font-bold sm:text-2xl"
+				class="me-3 h-10 w-6 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-20 sm:w-12"
 				aria-hidden="true"
 				focusable="false"
 				fill="none"
@@ -64,7 +64,7 @@ const url = new URL(Astro.request.url);
 					fill="#53C68C"></path>
 				<path d="M45.334 240 0 213.334v120L45.334 360V240Z" fill="#B04304"></path>
 			</svg>
-			<span class="me-3 h-10 w-6 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-20 sm:w-12">Fabrizio De Vincenzi</span>
+			<span class="text-xl font-bold sm:text-2xl">Fabrizio De Vincenzi</span>
 		</a>
 		<nav
 			id="navigation-menu"
