@@ -1,11 +1,11 @@
 ---
-title: "Un film da vedere al cinema"
-publishDate: "28 December 2023"
-description: "Non più solo quando ne vale la pena per gli effetti speciali e sonori, ma anche per le dinamiche con il pubblico in sale e con quello fuori"
+title: "«Un film da vedere al cinema»"
+publishDate: "27 December 2023"
+description: "Non più solo quando ne vale la pena per gli effetti speciali e sonori, ma anche per le dinamiche con il pubblico in sala e con quello fuori"
 tags: ["cinema"]
 ---
 
-Quando mi chiedevano «Com’è questo film?», potevo rispondere «Un film da vedere al cinema» quando ne valeva la pena per effetti speciali e immersione sonora. Ora devo ritarare la risposta anche in base a quanto il film parli all’esperienza collettiva piuttosto che a quella del singolo spettatore
+Quando mi chiedevano «Com’è questo film?», potevo rispondere «Un film da vedere al cinema» quando ne valeva la pena per effetti speciali e immersione sonora. Ora devo ritarare la risposta anche in base a quanto il film parli all’esperienza collettiva piuttosto che a quella del singolo spettatore.
 
 Non ho mai smesso di andare al cinema, anzi. Anni intensi del covid a parte, è almeno un decennio che ho la tessera del cineforum, poi trovo affascinante andare nei cinema nei luoghi di vacanza, infine nella mia città c’è anche un’arena estiva all’aperto che fa godere di serate altrimenti monotone e malspese. Però non ero più abituato a vedere le sale piene come è capitato in questo 2023 con Oppenheimer, Barbie e C’è ancora domani.
 
