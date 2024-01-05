@@ -1,5 +1,5 @@
 ---
-title: "Che fine ha fatto Alexandra Ocasio-Cortez?"
+title: "Che fine ha fatto Alexandria Ocasio-Cortez?"
 publishDate: "4 January 2024"
 description: "Icona progressista del Partito Democratico statunitense, AOC è figura influente e ispiratrice nonostante le sfide etiche e l'incertezza del suo futuro politico."
 tags: ["politica"]
