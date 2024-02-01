@@ -6,8 +6,8 @@ import { Resvg } from "@resvg/resvg-js";
 import { siteConfig } from "@/site-config";
 import { getAllPosts, getFormattedDate } from "@/utils";
 
-import Figtree-Regular from "@/assets/Figtree-Regular.ttf";
-import Figtree-Bold from "@/assets/Figtree-Bold.ttf";
+import FigtreeRegular from "@/assets/Figtree-Regular.ttf";
+import FigtreeBold from "@/assets/Figtree-Bold.ttf";
 
 const ogOptions: SatoriOptions = {
 	width: 1200,
@@ -16,13 +16,13 @@ const ogOptions: SatoriOptions = {
 	fonts: [
 		{
 			name: "Figtree",
-			data: Buffer.from(Figtree-Regular),
+			data: Buffer.from(FigtreeRegular),
 			weight: 300,
 			style: "normal",
 		},
 		{
 			name: "Figtree",
-			data: Buffer.from(Figtree-Bold),
+			data: Buffer.from(FigtreeBold),
 			weight: 700,
 			style: "normal",
 		},
