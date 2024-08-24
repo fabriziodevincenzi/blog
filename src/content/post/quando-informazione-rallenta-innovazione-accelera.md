@@ -5,7 +5,7 @@ description: "Come i progetti editoriali di Stripe ridefiniscono gli slow media 
 tags: ["editoria"]
 ---
 
-# Slow Media: Quando l'Innovazione Rallenta (Per Fortuna)
+Sottotitolo: come i progetti editoriali di Stripe ridefiniscono gli slow media digitali, con il contributo visionario di Stewart Brand.
 
 ## La scoperta di Works in Progress
 
