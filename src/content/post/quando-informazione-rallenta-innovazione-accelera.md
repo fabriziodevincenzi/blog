@@ -1,7 +1,7 @@
 ---
 title: "Quando l'informazione rallenta e l'innovazione accelera"
 publishDate: 2024-08-27
-description: "Un'esplorazione dei progetti editoriali di Stripe - Works in Progress, Stripe Press e Books in Progress - come stanno secondo me ridefinendo il concetto di slow media nell'era digitale e cosa c'entra Stewart Brand in tutto ciò."
+description: "Come i progetti editoriali di Stripe ridefiniscono gli slow media digitali, con il contributo visionario di Stewart Brand."
 tags: ["editoria"]
 ---
 
