@@ -61,6 +61,6 @@ E c'è qualcosa di profondamente ironico nel vedere Brand, che ha contribuito a 
 
 ## Perché tutto questo ha importanza
 
-In un'epoca in cui l'attenzione è la valuta più preziosa, progetti come quelli di Stripe ci ricordano che c'è ancora spazio per la riflessione, l'approfondimento e la collaborazione. Ci mostrano che l'innovazione non deve necessariamente significare "più veloce" o "più breve", ma può anche voler dire "più profondo" e "più coinvolgente".termi
+In un'epoca in cui l'attenzione è la valuta più preziosa, progetti come quelli di Stripe ci ricordano che c'è ancora spazio per la riflessione, l'approfondimento e la collaborazione. Ci mostrano che l'innovazione non deve necessariamente significare _più veloce_ o _più breve_, ma può anche voler dire _più profondo_ e _più coinvolgente_.
 
-In un mondo ossessionato dalla velocità, rallentare può essere la vera innovazione. E se a dircelo è un'azienda all'avanguardia della tecnologia come Stripe, forse è il caso di ascoltare. Dopotutto, anche nel 2024, "festina lente" - affrettati lentamente - potrebbe essere il motto più attuale che ci sia.
+In un mondo ossessionato dalla velocità, rallentare può essere la vera innovazione. E se a dircelo è un'azienda all'avanguardia della tecnologia come Stripe, forse è il caso di ascoltare. Dopotutto, anche nel 2024, _"festina lente"_ - affrettati lentamente - potrebbe essere il motto più attuale che ci sia.
