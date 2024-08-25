@@ -9,9 +9,11 @@ Sottotitolo: come i progetti editoriali di Stripe ridefiniscono gli slow media d
 
 ## La scoperta di Works in Progress
 
-Scrollando distrattamente la timeline di Twitter, mi sono imbattuto in qualcosa che ha catturato la mia attenzione più del solito. Non era l'ennesimo thread su come diventare milionari in 30 giorni, né l'ultimo meme virale. Era il link a una rivista online chiamata Works in Progress. Cliccando, mi sono ritrovato davanti a una pagina web che sembrava uscita da una macchina del tempo: un layout che ricordava le riviste patinate degli anni Novanta, ma con un tocco decisamente contemporaneo.
+Qualche anno fa, scrollando a tempo perso la timeline di Twitter, mi imbattei in qualcosa catturò la mia attenzione più del solito. Non era l'ennesimo thread su come diventare milionari in trenta giorni, né l'ultimo meme virale. Era il link a una rivista online chiamata _Works in Progress_. Cliccando, mi sono ritrovato davanti a una pagina web che sembrava uscita da una macchina del tempo: un layout che ricordava le riviste patinate degli anni Novanta, ma con un tocco decisamente contemporaneo.
 
 Ho passato la successiva ora a esplorare articoli su temi che spaziavano dalla lotta contro la guida in stato di ebbrezza alla bellezza del cemento. E più leggevo, più mi rendevo conto di essere di fronte a qualcosa di diverso dal solito flusso incessante di contenuti usa e getta del web.
+
+Poi ho iniziato a seguire il progetto, sia per i contenuti interessanti, ma soprattutto per l'idea editoriale che lo alimentava.
 
 ## Stripe: non solo pagamenti
 
@@ -19,19 +21,21 @@ Qui arriva la sorpresa: dietro a questo progetto editoriale c'è Stripe, l'azien
 
 ## Tre progetti, un'unica visione
 
-Approfondendo, ho scoperto che Stripe ha in realtà tre progetti editoriali interconnessi:
+Approfondendo, ho scoperto che Stripe ha in realtà tre progetti editoriali in parte interconnessi, ciascuno con un approccio unico alla creazione e diffusione di contenuti:
 
-1. **Works in Progress**: la rivista online che mi ha inizialmente catturato.
-2. **Stripe Press**: una vera e propria casa editrice che pubblica libri su innovazione e progresso.
-3. **Books in Progress**: un esperimento di scrittura collaborativa che coinvolge direttamente i lettori nel processo creativo.
+1. [**Works in Progress**](https://worksinprogress.co/): Una rivista online che pubblica saggi approfonditi su scienza, tecnologia e progresso sociale. Il suo formato digitale emula l'esperienza di lettura di una rivista cartacea, suddividendo i gruppi di articoli in pubblicazioni, incoraggiando una fruizione più riflessiva dei contenuti.
 
-Quello che lega questi tre progetti è un approccio che va controcorrente rispetto alla frenesia dell'informazione online: sono tutti esempi di quello che potremmo chiamare "slow media".
+2. [**Books in Progress**](https://books.worksinprogress.co/): Una piattaforma — inclusa nel progetto Works in Progress — di scrittura collaborativa che permette agli autori di condividere le bozze dei loro libri con i lettori. Questi ultimi possono commentare e contribuire direttamente al processo di scrittura, creando un dialogo dinamico tra autore e pubblico.
+
+3. [**Stripe Press**](https://press.stripe.com/): Una casa editrice che si concentra sulla pubblicazione di libri che esplorano idee innovative nel campo della tecnologia, dell'economia e del progresso umano. I loro volumi, curati sia nel contenuto che nella forma, mirano a ispirare nuove generazioni di pensatori e innovatori.
+
+Questi progetti, pur diversi nella forma, condividono la visione di Stripe di promuovere un approccio più riflessivo e collaborativo alla creazione e al consumo di contenuti intellettuali.
 
 ## Il Manifesto Slow Media: una dichiarazione d'intenti
 
-Mentre esploravo questi progetti di Stripe, mi è tornato alla mente il "Manifesto Slow Media", pubblicato nel 2010 da un gruppo di pensatori tedeschi. Non è un caso che questo manifesto sia emerso all'inizio del decennio che ha visto l'esplosione dei social media e del consumo frenetico di informazioni online.
+Quando mi imbatto in uno di questi progetti di Stripe, mi torna sempre alla mente il "Manifesto Slow Media", pubblicato nel 2010 da un gruppo di pensatori tedeschi. Non è un caso che questo manifesto sia emerso all'inizio del decennio che ha visto l'esplosione dei social media e del consumo frenetico di informazioni online.
 
-Il manifesto, in 14 punti, delinea una visione dell'informazione e della cultura che sembra quasi profetica alla luce dei progetti che stiamo analizzando. Punti come "Slow Media promuovono la concentrazione e incoraggiano un uso consapevole dei mezzi di comunicazione" o "Slow Media rispettano i loro utenti" risuonano fortemente con l'approccio di Works in Progress e Books in Progress.
+Il manifesto, in quattordici punti, delinea una visione dell'informazione e della cultura che sembra quasi profetica alla luce dei progetti che stiamo analizzando. Punti come "Slow Media promuovono la concentrazione e incoraggiano un uso consapevole dei mezzi di comunicazione" o "Slow Media rispettano i loro utenti" risuonano fortemente con l'approccio di Works in Progress e Books in Progress.
 
 Mi ha colpito in particolare il punto che afferma: "Slow Media sono orientati alla qualità sia nella produzione che nella ricezione dei contenuti mediatici". Non è forse questo esattamente ciò che Stripe sta cercando di fare con i suoi progetti editoriali?
 
@@ -64,3 +68,15 @@ E c'è qualcosa di profondamente ironico nel vedere Brand, che ha contribuito a 
 In un'epoca in cui l'attenzione è la valuta più preziosa, progetti come quelli di Stripe ci ricordano che c'è ancora spazio per la riflessione, l'approfondimento e la collaborazione. Ci mostrano che l'innovazione non deve necessariamente significare _più veloce_ o _più breve_, ma può anche voler dire _più profondo_ e _più coinvolgente_.
 
 In un mondo ossessionato dalla velocità, rallentare può essere la vera innovazione. E se a dircelo è un'azienda all'avanguardia della tecnologia come Stripe, forse è il caso di ascoltare. Dopotutto, anche nel 2024, _"festina lente"_ - affrettati lentamente - potrebbe essere il motto più attuale che ci sia.
+
+---
+
+**Nota: Stripe oltre lo Slow Media**
+
+Mentre con questo post ho voluto concentrarmi sui progetti di Stripe che più lego al concetto di slow media, vale la pena menzionare che l'impegno informativo dell'azienda nell'ecosistema tech va oltre. Un esempio notevole è [Indie Hackers](https://www.indiehackers.com/), una comunità online acquisita da Stripe nel 2017. 
+
+Indie Hackers è una piattaforma che offre risorse, podcast e forum per imprenditori indipendenti che stanno costruendo business online redditizi. Pur non rientrando nella categoria dei slow media, Indie Hackers condivide con gli altri progetti di Stripe l'obiettivo di nutrire e supportare l'innovazione e la condivisione di conoscenze nella comunità tech.
+
+Questa iniziativa sottolinea ulteriormente come Stripe stia cercando di influenzare e arricchire l'ecosistema tecnologico e imprenditoriale ben oltre il suo core business di servizi di pagamento.
+
+---
